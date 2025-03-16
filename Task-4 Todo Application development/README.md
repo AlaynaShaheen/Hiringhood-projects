@@ -65,8 +65,6 @@ http://localhost:3000
 
 ![Screenshot 2025-03-16 205927](https://github.com/user-attachments/assets/11a25933-5f8f-491c-b756-7d8a18f4ba2c)
 
-![Screenshot (41)](https://github.com/user-attachments/assets/8f40ede9-81bf-489f-8626-4c383bd04c44)
-
 ![Screenshot 2025-03-16 203148](https://github.com/user-attachments/assets/1e311287-e49b-4b4b-abe7-7015afb22f02)
 
 
